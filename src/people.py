@@ -1,6 +1,6 @@
 import random
 import math
-from AStar import AStar
+from astar import AStar
 class People:
     def __init__(self, _id, _loc_x, _loc_y,):
         self.id = _id  # 行人编号

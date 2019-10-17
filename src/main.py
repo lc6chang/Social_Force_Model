@@ -1,5 +1,5 @@
-from GUI import GUI
-from PEOPLE import PeopleList
+from gui import GUI
+from people import PeopleList
 
 #  创建GUI
 a = GUI()

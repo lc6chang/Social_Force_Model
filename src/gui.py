@@ -1,5 +1,6 @@
 import tkinter as tk
-from tkinter import *
+from tkinter import Label
+
 
 class GUI:
     def __init__(self):
@@ -40,8 +41,3 @@ class GUI:
     '''启动GUI'''
     def start(self):
         self.top.mainloop()
-
-
-
-
-
