@@ -1,2 +1,12 @@
 # Social-Force-Model-Simulation
-利用Python对社会力模型进行可视化模拟
+This little project is the simulation of [social force model](https://en.wikipedia.org/wiki/Social_Forces).
+
+## Usage
+
+```bash
+$ python3 src/main.py
+```
+
+## Running Screenshots
+
+![demo](./imgs/demo.JPG)
