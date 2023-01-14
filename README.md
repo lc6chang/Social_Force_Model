@@ -1,5 +1,5 @@
 # Social-Force-Model-Simulation
-This little project is the simulation of [social force model](https://en.wikipedia.org/wiki/Social_Forces).
+This little project is the simulation of [social force model](https://arxiv.org/pdf/cond-mat/0009448.pdf).
 
 ## Usage
 
